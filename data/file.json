@@ -1,0 +1,83 @@
+[
+  {
+    "biodata": [
+      {
+        "nama": "ADI NUGROHO",
+        "ttl": [
+          {
+            "tempat": "Kab.Semarang",
+            "tgl": "10 Juli 1998"
+          }
+        ],
+        "alamat": [
+          {
+            "dusun": "Dombo RT.12 RW.04",
+            "desa": "Sukorejo",
+            "kecamatan": "Suruh",
+            "kabupaten": "Semarang",
+            "provinsi": "Jawa Tengah"
+          }
+        ],
+        "tb": 169,
+        "bb": 70,
+        "kebangsaan": "INDONESIA"
+      }
+    ]
+  },
+  {
+    "pendidikan": [
+      {
+        "sd": "SD Negeri Sukorejo",
+        "smp": "MTs Negeri Salatiga ",
+        "sma": "SMK Negeri 1 Tengaran",
+        "univ": "STMIK Insan Pembangunan"
+      }
+    ]
+  },
+  {
+    "kerja": [
+      [
+        "PT Mora Sanel Lestari",
+        "2016-2017",
+        "Pekanbaru - RIAU",
+        "Bekerja sebagai check in counter untuk perusahaan LION GROUPS."
+      ],
+      [
+        "PT Sarana Dharma langgeng",
+        "2017-2019",
+        "Semarang - Jawa Tengah",
+        "Perusahaan ekspedisi pengirimann paket LION PARCEL."
+      ],
+      [
+        "PT Kadu Manis Utama",
+        "2020-2021",
+        "Tangerang - Banten",
+        "Perusahaaan manufakturing yang bergerak di industri makanan ringan."
+      ],
+      [
+        "PT Medikon Prima Laboratories",
+        "2021-2022",
+        "Tangerang, Banten",
+        "Perusahaan manufacturing yang bergerak dibidang farmasi."
+      ]
+    ]
+  },
+  {
+    "kemampuan": [
+      {
+        "office": ["Ms.Word", "Ms.Excel", "Ms.Power Point"]
+      },
+      {
+        "pemprograman": ["HTML", "CSS", "Javascript", "PHP", "Java"]
+      }
+    ]
+  },
+  {
+    "hobi": [
+      ["Membaca", "pexels-rikka-ameboshi-3358707.jpg"],
+      ["Internet", "pexels-vojtech-okenka-392018.jpg"],
+      ["Ngoding", "pexels-pixabay-270360.jpg"],
+      ["Traveling", "pexels-andrei-tanase-1271619.jpg"]
+    ]
+  }
+]
