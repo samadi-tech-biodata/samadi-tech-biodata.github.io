@@ -222,7 +222,7 @@ function mainKemampuan(dat) {
     <div class="list-row">
       <div class="container-list flex-center">
         <div class="pic">
-          <img src="img/pexels-rikka-ameboshi-3358707.jpg" />
+          <img src="img/pexels-pixabay-270360.jpg" />
         </div>
         <div class="main-detail">
           <h6>HTML</h6>
@@ -240,7 +240,7 @@ function mainKemampuan(dat) {
     </div>
     <div class="list-row">
       <div class="container-list flex-center">
-        <div class="pic"></div>
+        <div class="pic"><img src="img/pexels-pixabay-270360.jpg" /></div>
         <div class="main-detail">
           <h6>CSS</h6>
           <div class="css">
@@ -256,7 +256,7 @@ function mainKemampuan(dat) {
     </div>
     <div class="list-row">
       <div class="container-list flex-center">
-        <div class="pic"></div>
+        <div class="pic"><img src="img/pexels-pixabay-270360.jpg" /></div>
         <div class="main-detail">
           <h6>JAVASCRIPT</h6>
           <div class="js">
@@ -272,7 +272,7 @@ function mainKemampuan(dat) {
     </div>
     <div class="list-row">
       <div class="container-list flex-center">
-        <div class="pic"></div>
+        <div class="pic"><img src="img/pexels-pixabay-270360.jpg" /></div>
         <div class="main-detail">
           <h6>PHP</h6>
           <div class="php">
@@ -293,7 +293,7 @@ function mainKemampuan(dat) {
     <div class="list-row">
       <div class="container-list flex-center">
         <div class="pic">
-          <img src="img/pexels-rikka-ameboshi-3358707.jpg" />
+        <img src="img/pexels-pixabay-270360.jpg" />
         </div>
         <div class="main-detail">
           <h6>MS OFFICE</h6>
@@ -310,7 +310,7 @@ function mainKemampuan(dat) {
     </div>
     <div class="list-row">
       <div class="container-list flex-center">
-        <div class="pic"></div>
+        <div class="pic"><img src="img/pexels-pixabay-270360.jpg" /></div>
         <div class="main-detail">
           <h6>FLUTTER</h6>
           <div class="flutter">
@@ -326,7 +326,7 @@ function mainKemampuan(dat) {
     </div>
     <div class="list-row">
       <div class="container-list flex-center">
-        <div class="pic"></div>
+        <div class="pic"><img src="img/pexels-pixabay-270360.jpg" /></div>
         <div class="main-detail">
           <h6>JAVA</h6>
           <div class="java">
